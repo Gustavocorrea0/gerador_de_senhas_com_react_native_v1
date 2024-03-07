@@ -14,5 +14,5 @@
   > Bottom tabs: npm install @react-navigation/bottom-tabs
 
 > Imagens:
-  ![Alt text](img1.jpeg)
-  ![Alt text](img2.jpeg)
+   <img src="img1.png" alt="Alt text" width="200"/>
+ 
