@@ -15,3 +15,4 @@
 
 > Imagens:
   <img src="img1.jpeg" alt="Alt text" width="200"/>
+  <img src="img2.jpeg" alt="Alt text" width="200"/>
